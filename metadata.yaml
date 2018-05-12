@@ -1,0 +1,29 @@
+_repo: A-Busy-Year-at-the-Old-Squire-s_19968
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephens, C. A. (Charles Asbury)
+    alias: Stephens, Charles Asbury
+    birthdate: 1844
+    deathdate: 1931
+    gutenberg_agent_id: '8996'
+    url: http://www.gutenberg.org/2009/agents/8996
+description: ''
+gutenberg_issued: '2006-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction, American'
+- !lcc 'PS'
+- !lcsh 'Maine -- Social life and customs -- Fiction'
+- !lcsh 'Farm life -- Maine -- Fiction'
+title: A Busy Year at the Old Squire's
+url: http://www.gutenberg.org/ebooks/19968
